@@ -1,0 +1,4 @@
+node {
+stage('SCM Checkout') {
+echo "hey"
+//git credentials: "solmansunny007", url
